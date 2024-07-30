@@ -1,0 +1,30 @@
+.userlist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-between;
+    width: fit-content;
+    gap: 30px; /* Espacio entre los elementos */
+}
+  
+  .cont{
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espacio entre los elementos */
+    align-self: center;
+    width: fit-content;
+  }
+  
+  .contmain .btncont{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  
+  .createbtn{
+    padding: 10px;
+    background-color: thistle;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+  }

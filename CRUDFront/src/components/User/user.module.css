@@ -1,0 +1,19 @@
+.usercard{
+    padding: 30px;
+    border: 2px solid gray;
+    width: fit-content;
+    background-color:wheat;
+}
+
+.btn{
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btncont{
+    display: flex;
+    justify-content: space-around;
+}
